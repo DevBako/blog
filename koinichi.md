@@ -3,7 +3,7 @@ layout: page
 title: KOINICHI
 ---
 
-![KOINICHI-LOGO](/blog/public/koinichi.png)
+![KOINICHI-LOGO](/public/koinichi.png)
 
 * Email : [koinichi.kr@gmail.com](mailto:koinichi.kr@gmail.com)
 * Github : [KOINICHI](https://github.com/KOINICHI)

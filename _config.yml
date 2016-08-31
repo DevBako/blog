@@ -5,8 +5,8 @@ permalink:           pretty
 title:               DevBako
 tagline:             ''
 description:         'DevBako'
-url:                 http://devbako.ichino.se
-baseurl:             '/blog'
+url:                 http://devbako.github.io
+baseurl:             ''
 paginate:            5
 
 # About/contact
